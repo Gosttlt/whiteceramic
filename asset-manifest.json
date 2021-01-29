@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/whiteceramic/static/css/main.8730e6d1.chunk.css",
-    "main.js": "/whiteceramic/static/js/main.67e96332.chunk.js",
-    "main.js.map": "/whiteceramic/static/js/main.67e96332.chunk.js.map",
+    "main.js": "/whiteceramic/static/js/main.b82ac49c.chunk.js",
+    "main.js.map": "/whiteceramic/static/js/main.b82ac49c.chunk.js.map",
     "runtime-main.js": "/whiteceramic/static/js/runtime-main.966ccff7.js",
     "runtime-main.js.map": "/whiteceramic/static/js/runtime-main.966ccff7.js.map",
     "static/js/2.93154895.chunk.js": "/whiteceramic/static/js/2.93154895.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.966ccff7.js",
     "static/js/2.93154895.chunk.js",
     "static/css/main.8730e6d1.chunk.css",
-    "static/js/main.67e96332.chunk.js"
+    "static/js/main.b82ac49c.chunk.js"
   ]
 }
